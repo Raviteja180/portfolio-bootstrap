@@ -1,0 +1,73 @@
+nav {
+  background-color: teal !important;
+  color: white;
+}
+
+a {
+  color: #ffff !important;
+  margin-right: 30px;
+}
+
+a:hover {
+  outline: 3px solid #02bdb6;
+  color: #02bdb6 !important;
+  border-radius: 4px;
+}
+
+.col-7 p:nth-child(1) {
+  color: #02bdb6;
+}
+
+.col-7 p:nth-child(2) {
+  font-weight: 600;
+  font-size: 25px;
+  color: #c4c4c4;
+}
+
+.col-7 p:nth-child(3) {
+  font-size: 30px;
+  color: #cccbcb;
+}
+
+.col-7 p:nth-child(4) {
+  margin-top: 40px;
+  color: #cccbcb;
+}
+
+.col-7 p:nth-child(5) {
+  color: #cccbcb;
+}
+
+.personal-info {
+  background-color: teal;
+}
+
+#projects {
+  background-color: teal;
+}
+
+#social-media {
+  background-color: #c5c8c8;
+}
+
+#social-media img {
+  width: 30px;
+  height: 30px;
+}
+
+.box1 {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px 20px;
+  -webkit-box-shadow: 6px 6px 2px #20d5cf;
+          box-shadow: 6px 6px 2px #20d5cf;
+}
+
+.flex-column h3, .flex-column p {
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */

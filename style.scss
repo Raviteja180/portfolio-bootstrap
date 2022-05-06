@@ -1,0 +1,71 @@
+nav{
+    background-color: teal !important;
+    color:white;
+}
+a{
+    color:#ffff !important;
+    margin-right: 30px;;
+    // padding:5px 10px;
+}
+a:hover{
+    // background-color: rgb(6, 167, 62);
+    outline: 3px solid rgb(2, 189, 182);
+
+    // color:rgb(2, 189, 182);
+    color:rgb(2, 189, 182) !important;
+    border-radius: 4px;;
+}
+a:active{
+    // background-color: teal;
+}
+.col-7{
+    p:nth-child(1){
+        // font-size: 15px;
+        color:rgb(2, 189, 182)
+    }
+    p:nth-child(2){
+        font-weight: 600;
+        font-size:25px;
+        color: rgb(196, 196, 196);
+    }
+    p:nth-child(3){
+        font-size: 30px;
+        color: rgb(204, 203, 203);
+    }
+    p:nth-child(4){
+        margin-top: 40px;
+        color:rgb(204, 203, 203);
+    }
+    p:nth-child(5){
+        color:rgb(204, 203, 203);
+    }
+}
+.personal-info{
+    background-color: teal;
+}
+#projects{
+    background-color: teal;
+}
+#social-media{
+    background-color: rgb(197, 200, 200);
+    img{
+        width:30px;
+        height: 30px;
+    }
+    
+}
+.box1{
+    background-color: #fff;
+    padding:20px;
+    margin:20px 20px;
+    box-shadow:6px 6px 2px rgb(32, 213, 207);
+
+}
+.flex-column{
+    h3,p{
+      margin-left: 20px;
+    }
+  }
+  a{
+      text-decoration: none;
+  }
